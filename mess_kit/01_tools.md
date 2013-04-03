@@ -1,4 +1,4 @@
-!SLIDE
+!SLIDE center
 
 [http://www.flickr.com/photos/uncle_paul/7192436950/](http://www.flickr.com/photos/uncle_paul/7192436950/)
 
@@ -59,7 +59,7 @@ Knife Tricks: [http://dougireton.com/blog/2013/02/03/knife-tricks/](http://dougi
 
 Foodcritic / Travis CI
 
-!SLIDE
+!SLIDE center
 
 ![travisci](travisci.png)
 

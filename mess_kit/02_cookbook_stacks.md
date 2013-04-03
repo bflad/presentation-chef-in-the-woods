@@ -2,21 +2,21 @@
 
 Cookbook Stacks
 
-!SLIDE
+!SLIDE center
 
 [http://memegenerator.net/instance/36899892](http://memegenerator.net/instance/36899892)
 
 ![modularize](modularize.jpg)
 
-!SLIDE
+!SLIDE center
 
 ![cookbook-stacks-overview.png](cookbook-stacks-overview.png)
 
-!SLIDE
+!SLIDE center
 
 ![cookbook-stacks-application.png](cookbook-stacks-application.png)
 
-!SLIDE
+!SLIDE center
 
 ![cookbook-stacks-deployment.png](cookbook-stacks-deployment.png)
 

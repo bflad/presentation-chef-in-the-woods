@@ -20,7 +20,7 @@
 * Research compute nodes (R, Matlab, MPI, etc.)
 * Network monitors, security scanners, syslog servers
 
-!SLIDE smaller
+!SLIDE center smaller
 
 [http://www.flickr.com/photos/brapke/1349697818/](http://www.flickr.com/photos/brapke/1349697818/)
 

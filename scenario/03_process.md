@@ -6,7 +6,7 @@
 
 Cfengine 2, really?
 
-!SLIDE smaller
+!SLIDE center smaller
 
 .notes 1998
 
@@ -76,7 +76,7 @@ Helped understanding of all the cookbook components (attributes, recipes, templa
 
 Next, did the most logical thing*: bootstrapped all nodes.
 
-!SLIDE
+!SLIDE center
 
 ![bootstrap.png](bootstrap.png)
 
@@ -94,7 +94,7 @@ Example: [http://www.slideshare.net/mcdonnps/lessons-from-etsy-avoiding-kitchen-
 * Metrics: Graphite
 * Change management: knife spork
 
-!SLIDE smaller
+!SLIDE center smaller
 
 [http://www.flickr.com/photos/cdevers/4765629067/](http://www.flickr.com/photos/cdevers/4765629067/)
 
