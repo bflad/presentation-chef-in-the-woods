@@ -1,1 +1,10 @@
-{ "name": "My Preso", "sections": [ {"section":"one"} ]}
+{
+  "name": "Messing with Sasquatch: Chef in the Woods",
+  "sections": [
+    { "section": "introduction" },
+    { "section": "scenario" },
+    { "section": "mess_kit" },
+    { "section": "snare_traps" },
+    { "section": "conclusion" }
+  ]
+}

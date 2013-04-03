@@ -1,0 +1,29 @@
+body, #preso, .slide {
+  background-color: black;
+  color: #00b6d6;
+}
+
+a, a:hover {
+  color: #00b6d6;
+}
+
+.bullets > ul > li {
+  text-align: left;
+  list-style: disc;
+}
+
+.commandline code.command {
+  color: #eaff05;
+}
+
+.commandline code.result {
+  color: #777777;
+}
+
+.smbullets > ul > li {
+  text-align: left;
+}
+
+h1, h2 {
+  color: #00b600;
+}
