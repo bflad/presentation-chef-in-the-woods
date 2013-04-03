@@ -1,11 +1,11 @@
 
-!SLIDE commandline incremental
+!SLIDE commandline
 
     $ cd /path/to/org-app-server-cookbook
     $ vagrant up
     Chef run completed: 100 seconds
 
-!SLIDE commandline incremental smaller
+!SLIDE commandline smaller
 
     $ cd /path/to/cheforg
     $ librarian-chef update org-app-server
